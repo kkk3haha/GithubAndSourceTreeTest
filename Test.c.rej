@@ -1,0 +1,6 @@
+diff a/Test.c b/Test.c	(rejected hunks)
+@@ -1,4 +0,0 @@
+-int main(void)
+-{
+-  printf("Hello World");
+-}
